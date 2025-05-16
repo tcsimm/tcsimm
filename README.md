@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @tcsimm
-- 👀 I’m interested in data science, data analytics, visualization
-- 🌱 I’m currently learning SQL, Python and Tableau.
-- 💞️ I’m looking to collaborate on any projects!
-- 📫 How to reach me thomascsimm@gmail.com
+### 👋 Hi, I’m Thomas (@tcsimm)
+
+I'm a data enthusiast with a background in Computer Science (MS, Northeastern University) and Information Management & Technology (BS, Syracuse University). I’m passionate about turning raw data into meaningful insights that drive decisions.
+
+- 🔍 Interests: Data science, analytics, and visualization  
+- 🧠 Currently learning: Python, SQL, and Tableau  
+- 🤝 Open to: Collaborating on data projects and learning from others  
+- 📫 Reach me at: thomascsimm@gmail.com
+
+Thanks for stopping by!
