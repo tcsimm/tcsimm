@@ -4,7 +4,7 @@ I'm a data enthusiast with a background in Computer Science (MS, Northeastern Un
 
 - 🔍 Interests: Data science, analytics, and visualization  
 - 🧠 Currently learning: Python, SQL, and Tableau  
-- 🤝 Open to: Collaborating on data projects and learning from others  
+- 🤝 Open to: Collaborating on data projects and **seeking full-time roles in data analytics or data science**  
 - 📫 Reach me at: thomascsimm@gmail.com
 
 Thanks for stopping by!
