@@ -3,7 +3,7 @@
 I'm a data enthusiast with a background in Computer Science (MS, Northeastern University) and Information Management & Technology (BS, Syracuse University), and I hold certifications in AWS Cloud and Security (AWS CCP, CompTIA Security+).
 I’m passionate about turning raw data into meaningful insights that drive real-world decisions across business, technology, and customer analytics.
 
-Over the past year, I’ve built projects that analyze consumer behavior, traffic patterns, airline trends, and hospitality performance using tools like Python, SQL, and Power BI. My work combines technical rigor with clear storytelling — from forecasting outcomes to uncovering hidden trends in large datasets.
+Over the past year, I’ve built projects that analyze consumer behavior, traffic patterns, airline trends, and hospitality performance using tools like Python, SQL, and Tableau. My work combines technical rigor with clear storytelling, from forecasting outcomes to uncovering hidden trends in large datasets.
 
 🧠 **Currently focused on:**  
 - SQL optimization and window functions  
@@ -19,4 +19,4 @@ Collaborating on analytics projects, contributing to open-source data initiative
 📫 **Reach me at:** thomascsimm@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tcsimm) | [GitHub Projects](https://github.com/tcsimm)
 
-Thanks for stopping by!
+Thank you for stopping by!
