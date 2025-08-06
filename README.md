@@ -7,7 +7,7 @@ Over the past year, I have built projects that analyze consumer behavior, traffi
 
 🧠 **Currently focused on:**  
 - SQL optimization and window functions  
-- Power BI dashboards for operational reporting  
+- Tableau & Power BI dashboards for operational reporting  
 - Data storytelling for non-technical stakeholders  
 
 📊 **What I’m building toward:**  
